@@ -1,0 +1,10 @@
+.adscard-cont1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.adscard-card2{
+    width: 98.5%;
+    display: flex;
+    justify-content: space-around;
+}

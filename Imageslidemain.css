@@ -1,0 +1,14 @@
+.main-slide-cont1{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.main-slide-cont2{
+    width: 98.5%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
