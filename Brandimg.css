@@ -1,0 +1,12 @@
+.brandimg-cont1{
+    height: 98px;
+    width: 266px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter:opacity(70%) grayscale(100%);
+    transition: 0.3s ease;
+}
+.brandimg-cont1:hover{
+    filter: opacity(100%) grayscale(0%);
+}
