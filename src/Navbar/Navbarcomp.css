@@ -9,6 +9,7 @@
     font-weight: 500;
     border-right: 2px solid #efefef;
     border-bottom: 1px solid #efefef;
+    transition: all .2s ease-in-out;
 }
 .nav2-comp:hover{
     border-bottom: 2px solid black;
